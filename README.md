@@ -1,18 +1,26 @@
 FlickrApp
 =========
 
-Flickr App
+Flickr Slideshow App
 
 
-We will be creating a Flickr Client Search Api.
-Alsong with normal search we might even explore following options
+We will be creating an application to build and play slideshows from flickr images.
 
-- Build slideshows and/or mozaics based on
-  - interesting photos from the neighborhood (Location)
-  - hand selected photos (Search)
-  - automatically selected photos to build a timeline (api search, taken_date)
-- Captions
-- Frames
-- Filters
+**Stories:**
+ - Display a list of images
+ - Search flicker public images and view results
+ - Select image from flickr results and add it to the list
+ - Play list of images as a slide show
+ - Save/Load a slideshow
+ - Configure a slideshow page (page duration, caption, ...)
+ - Delete a page
+ - (Optionnal) Cache images
+ - (Optionnal) Apply simple image filters (black and white, ...)
+ - (Optionnal) Apply simple image overlay (frames, text, basic shapes, ...)
+ - (Optionnal) Save slideshow as a single file (archive?, svg?)
+ - (Optionnal) Add option to share slideshow
+ - (Optionnal) Current location based flickr search option
+ - (Optionnal) Popularity? based flickr search option
+ - (Optionnal) timeline based flickr search option
 
-![Picture.jpeg](Picture.jpeg)
+![Brainstorming snapshot with wireframe](Picture.jpeg)
